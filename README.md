@@ -4,3 +4,5 @@ In this project, I'm gonna show you how to create a quiz with multiple choices f
 
 Because I'll be mainly extending and improving his quiz video tutorial to include multiple choices instead of true of false..
 
+The quiz manager is completely dynamic, you could includes as many questions as you want and also there is no limit to the options. So it all depends on how you want your game to be like.
+
